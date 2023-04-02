@@ -5,7 +5,7 @@ st.title('Leo Messi')
 col1,col2=st.columns(2)
 
 with col1:
-    st.image('messi2.jpg')
+    st.image('MESSI.jpg')
 
 with col2:
     st.write('''
